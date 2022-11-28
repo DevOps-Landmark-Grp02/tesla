@@ -1,0 +1,20 @@
+IQ: As a DevOps Engineer, what are your roles & responsibilities in versioning?
+Answer: 
+ 1. A DevOps Engineer is a Subject Matter Expert = SME 
+     DE should recommend best option for versioning - DVCS like Git    
+ 2. Ensure that Developers environments are configured and secured 
+    Create an enabling environment for Developers
+ 3. Onboarding new Project/client 
+       Create a SCM account like GitHub for your client where applicable 
+       Create organizations where applicable 
+       Create repositories in SCM [GitHub] 
+       Create teams in SCM and assign members[Developers, etc.] 
+
+IQ: What is your experience as a DevOps Engineer??
+1. Creating aws accounts for client
+2. Launching Linux servers in aws for client  
+3. Connecting securely using ssh from remote location
+4. Running workload in Linux systems like:
+     fileMGT / userMGT / packageMGT / processMGT / securityMGT 
+     granting access
+
