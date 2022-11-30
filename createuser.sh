@@ -9,3 +9,5 @@ sudo /usr/sbin/usermod -G devops $userName
 echo ".......User is created..........."
 echo ".......Now Set the password for  ....... $userName"
 sudo passwd $userName
+echo "New user onboarding completed"
+
