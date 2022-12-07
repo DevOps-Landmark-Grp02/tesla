@@ -10,4 +10,4 @@ echo ".......User is created..........."
 echo ".......Now Set the password for  ....... $userName"
 sudo passwd $userName
 echo "New user onboarding completed"
-
+echo "new line ade"
